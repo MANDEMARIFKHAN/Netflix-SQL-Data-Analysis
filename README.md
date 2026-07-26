@@ -57,25 +57,25 @@ The dataset contains information about Netflix titles including:
 
 ### Netflix Table
 
-![Table](images/table.png)
+![Table](Images/table.png)
 
 ---
 
 ### Total Shows
 
-![Query1](images/query1.png)
+![Query1](Images/query1.png)
 
 ---
 
 ### Movies vs TV Shows
 
-![Query2](images/query2.png)
+![Query2](Images/query2.png)
 
 ---
 
 ### Top 10 Most Popular Genres
 
-![Query3](images/query3.png)
+![Query3](Images/query3.png)
 
 ---
 
