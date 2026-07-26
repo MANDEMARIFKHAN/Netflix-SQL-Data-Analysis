@@ -49,12 +49,6 @@ The dataset contains information about Netflix titles including:
 
 ## 📸 Project Screenshots
 
-### Database
-
-![Database](images/database.png)
-
----
-
 ### Netflix Table
 
 ![Table](Images/table.png)
